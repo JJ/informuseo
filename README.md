@@ -1,6 +1,6 @@
 # informuseo
 
-Apuntes para el museo de la informática de la ETSIIT
+Apuntes para el museo de la informática de la ETSIIT.
 
 La visita consistirá en lo siguiente:
 
@@ -14,7 +14,7 @@ La visita consistirá en lo siguiente:
 
 3. Sistemas en el hall
    1. Visita al [IBM System/3](System3.md) del hall
-   2. Resto de piezas
+   2. [Resto de piezas](ordenadores-hall.md).
 
 4. Visita a la vitrina de la segunda planta
 
