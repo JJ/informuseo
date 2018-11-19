@@ -33,3 +33,30 @@ unas 70 pesetas](https://tematicas.org/indicadores-economicos/sector-monetario-f
 unos 9000€ de hoy en día. Con lo que te compras un Renault Clio, todos
 los meses.
 
+Como el ordenador parece más un armario empotrado que un ordenador,
+nos va a ser difícil identificar cada una de las partes. La [parte que
+parece un panel de control](https://en.wikipedia.org/wiki/IBM_System/3#/media/File:IBM_System3.JPG) es
+la *unidad central de procesamiento*. Lo que parece una máquina de
+bolas o algo así, es
+el
+[clasificador de tarjetas perforadas](https://en.wikipedia.org/wiki/IBM_System/3#/media/File:Selezionatrice_di_IBM_sistema_3_-_Museo_scienza_tecnologia_Milano_D0833.jpg),
+pero también se le podía introducir información via una máquina de
+escribir electrónica (como la que hay aquí).
+
+¿Por dónde sacaba la información? ¿Dónde está la pantalla? No hay
+pantalla: Los resultados los sacaban por la impresora, en paper
+perforado, impresora que podéis ver aquí.
+
+¿Y cómo se introducía la información y qué se introducía? ¿Recordáis
+la visión de Ada Lovelace del ordenador como máquina universal, que
+podía hacer todo? Pues así se hacía: un tocho de tarjetas tenía el
+programa, otro tocho de tarjetas los datos, y salía el resultado por
+la impresora al cabo del rato.
+
+¿Cuánto le cabía? 4K. Es decir, 4096 palabras de [memoria de núcleo
+magnético como la que veremos arriba](https://en.wikipedia.org/wiki/Magnetic-core_memory). ¿Y
+eso cuanto es? Un K viene a ser una página escrita. Un GIF animado
+normal y corriente puede ocupar 400Ks. Es decir, que harían falta 100
+máquinas como esta, ¡para almacenar un sólo gif animado!
+
+![No me lo puedo de creer](https://giphy.com/embed/3oz8xV2IHQn3GiPPfa)
