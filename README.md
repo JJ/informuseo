@@ -10,7 +10,9 @@ La visita consistirá en lo siguiente:
    
 2. Presentación sobre lo anterior
 
-3. Visita al IBM System/3 del hall
+3. Sistemas en el hall
+   1. Visita al [IBM System/3](System3.md) del hall
+   2. Resto de piezas
 
 4. Visita a la vitrina de la segunda planta
 
