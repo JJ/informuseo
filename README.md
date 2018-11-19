@@ -9,6 +9,8 @@ La visita consistirá en lo siguiente:
    2. Estructura básica de un ordenador
    
 2. Presentación sobre lo anterior
+   1. La máquina universal y la visión de Ada Lovelace
+   2. Partes de una máquina y cómo va la información de una a otra.
 
 3. Sistemas en el hall
    1. Visita al [IBM System/3](System3.md) del hall

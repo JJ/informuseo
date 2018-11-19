@@ -60,3 +60,10 @@ normal y corriente puede ocupar 400Ks. Es decir, que harían falta 100
 máquinas como esta, ¡para almacenar un sólo gif animado!
 
 ![No me lo puedo de creer](https://giphy.com/embed/3oz8xV2IHQn3GiPPfa)
+
+## Alguna info adicional
+
+* [Unboxing de una recién comprada](http://www.corestore.org/3.htm)
+
+* [Un sitio entero dedicado a ella](http://www.ibmsystem3.nl/) en
+  Holanda. 
