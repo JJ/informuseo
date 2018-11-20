@@ -58,3 +58,22 @@ Plantear la siguiente pregunta a cada grupo de 6
 
 * ¿Cómo multiplicarías por 2? ¿Y dividir por 2?
 * ¿Hay alguna forma fácil de sumar 1? ¿Y de restar?
+
+
+## Representando letras
+
+Vamos a hacer
+unos
+[brazaletes binarios](https://curriculum.code.org/csf-18/coursec/16/)
+con nuestra inicial. Se reparten unas hojas con las equivalencias en
+letras, y se colorea el número binario correspondiente. Como se ha
+dicho anteriormente, todos el contenido del ordenador se representa
+mediante números, y para que nadie se confunda cuando se envían
+letras, se ha tomado la decisión de que estas letras se representen
+siempre de la misma forma. Inicialmente se usaron 7 bits en lo que se
+llamó código ASCII, hoy en día se usan hasta 32 bits para poder
+representar cualquier alfabeto (y hasta los emojis).
+
+Alternativamente, si tenemos tiempo (y plancha) podemos hacerlo con
+[*hama beads*](https://www.redtedart.com/hama-bead-perler-bead-bracelets/) que
+se puedan llevar a casa.

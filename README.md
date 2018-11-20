@@ -4,9 +4,7 @@ Apuntes para el museo de la informática de la ETSIIT.
 
 La visita consistirá en lo siguiente:
 
-1. Dinámica sobre
-   1. [Representación de la información](actividad-representacion-informacion.md).
-   2. Estructura básica de un ordenador
+1. Dinámica sobre [Representación de la información](actividad-representacion-informacion.md)
    
 2. Presentación sobre lo anterior
    1. La máquina universal y la visión de Ada Lovelace
