@@ -5,8 +5,7 @@ Apuntes para el museo de la informática de la ETSIIT.
 La visita consistirá en lo siguiente:
 
 1. Dinámica sobre
-   1. [Representación de la información](Actividad de representación
-      de la información).
+   1. [Representación de la información](actividad-representacion-informacion.md).
    2. Estructura básica de un ordenador
    
 2. Presentación sobre lo anterior

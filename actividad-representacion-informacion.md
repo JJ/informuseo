@@ -1,4 +1,4 @@
-# Representación de la información
+# Representación de la información: el código binario
 
 En los ordenadores todo se representa en un código llamado
 binario. Este código binario usa *bits*, es decir, *cachitos* de
