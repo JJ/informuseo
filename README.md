@@ -1,4 +1,4 @@
-# informuseo
+# Notas para una actividad sobre el museo de la informática de la ETSIIT
 
 Apuntes para el museo de la informática de la ETSIIT.
 
@@ -15,7 +15,7 @@ La visita consistirá en lo siguiente:
    2. [Resto de piezas](ordenadores-hall.md).
 
 4. Visita a la vitrina de la segunda planta
-   1. Tarjetas y cintas perforadas.
+   1. [Tarjetas y cintas perforadas](tarjetas-perforadas.md).
    1. Memorias de núcleo magnético.
    2. CPU
    3. Ordenador en una placa
