@@ -4,7 +4,7 @@ Apuntes para el museo de la informática de la ETSIIT.
 
 La visita consistirá en lo siguiente:
 
-1. Dinámica sobre [Representación de la información](actividad-representacion-informacion.md)
+1. Dinámica sobre [representación de la información](actividad-representacion-informacion.md)
    
 2. Presentación sobre lo anterior
    1. La máquina universal y la visión de Ada Lovelace
@@ -15,6 +15,10 @@ La visita consistirá en lo siguiente:
    2. [Resto de piezas](ordenadores-hall.md).
 
 4. Visita a la vitrina de la segunda planta
+   1. Tarjetas y cintas perforadas.
+   1. Memorias de núcleo magnético.
+   2. CPU
+   3. Ordenador en una placa
 
 (3 y 4 se harán simultáneamente)
 
