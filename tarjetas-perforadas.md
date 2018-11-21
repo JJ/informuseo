@@ -1,4 +1,4 @@
-# Tarjetas y cintar perforadas
+# Tarjetas y cintas perforadas
 
 Igual que se ha hecho en la actividad sobre código binario, los
 ordenadores necesitan alguna forma obvia de recibir información y
@@ -34,9 +34,11 @@ que ya sí podía entender un ordenador directamente en código
 binario. Grace Hopper trabajó como consultora para DEC, la empresa que
 fabricó el disco duro tocho que vimos en el hall de la Escuela.
 
-Las [cintas perforadas](https://en.wikipedia.org/wiki/Punched_tape)
+A partir de 1955 se empezaron a usar medios de almacenamiento magnético, pero se siguieron usando otros métodos basados en papel como las [cintas perforadas](https://en.wikipedia.org/wiki/Punched_tape). Estas llegaron
 llegaron un poco más adelante. Eran más compactas, se podían leer más
 rápidamente, y por eso duraron un poco más que las tarjetas. Además,
 se podían rebobinar, lo que no sucedía con las tarjetas. La
 información se codificaba en 5 filas, aunque más adelante llegaron a
 tener hasta 8.
+
+Todo este tipo de métodos se dejaron de usar en los años 80, cuando empezó a haber medios magnéticos y también procesadores capaces de entender sobre la marcha lo que se decía en un teclado. El ordenador, eventualmente, venció a la mano.
