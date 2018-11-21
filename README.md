@@ -17,8 +17,8 @@ La visita consistirá en lo siguiente:
 4. Visita a la vitrina de la segunda planta
    1. [Tarjetas y cintas perforadas](tarjetas-perforadas.md).
    1. Memorias de núcleo magnético.
-   2. CPU
-   3. Ordenador en una placa
+   2. [CPU](CPUs.md).
+   3. Ordenador en una [placa](placas.md).
 
 (3 y 4 se harán simultáneamente)
 
