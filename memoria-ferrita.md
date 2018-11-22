@@ -5,7 +5,7 @@ Las
 uno de los sistemas más utilizados entre los años 50 y 70. Previamente
 se
 usaron
-[memorias de línea de retraso](https://en.wikipedia.org/wiki/Delay_line_memory),
+[memorias de línea de retardo](https://en.wikipedia.org/wiki/Delay_line_memory),
 de la que también tenemos un ejemplo. 
 
 En la memorias se almacenan cosas. Cada parte de la memoria tiene una
